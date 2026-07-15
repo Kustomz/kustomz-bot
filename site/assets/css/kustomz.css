@@ -1,0 +1,10 @@
+:root{
+ --md-primary-fg-color:#111;
+ --md-accent-fg-color:#3da5ff;
+}
+.md-header{
+ border-bottom:2px solid #7d7d7d;
+}
+.md-typeset h1,h2{
+ letter-spacing:.04em;
+}
