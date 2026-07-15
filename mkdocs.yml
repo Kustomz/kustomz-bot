@@ -1,0 +1,21 @@
+site_name: Kustomz Bot
+site_description: Official Kustomz Bot Documentation
+theme:
+  name: material
+  palette:
+    scheme: slate
+  logo: assets/logo-placeholder.txt
+extra_css:
+  - assets/css/kustomz.css
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Commands: commands.md
+  - Features: features.md
+  - FAQ: faq.md
+  - Legal:
+      - Terms: terms.md
+      - Privacy: privacy.md
+      - Acceptable Use: acceptable-use.md
+      - Data Deletion: data-deletion.md
+      - Support: support.md
